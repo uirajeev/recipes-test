@@ -1,4 +1,5 @@
-# recipes
+# Recipes application in Vue Js
+##### Including Vuex, Axios, and jest for unit testing
 
 ## Project setup
 ```
@@ -32,6 +33,10 @@ npm run test:unit
 * A simple to use directive for debounce solutions [vue-debounce](https://www.npmjs.com/package/vue-debounce)
 * YouTube IFrame Player API wrapper. [vue-youtube](https://www.npmjs.com/package/vue-youtube)
 * Global message toast [vue-izitoast ](https://www.npmjs.com/package/vue-izitoast)
+
+### External Dev dependencies used
+* Jest for unit testing — [jest](https://jestjs.io/).
+
 
 
 ### Customize configuration
